@@ -1,5 +1,8 @@
 {
   "version": "4.5.3",
-  "download_url": "https://github.com/OrpheusSabelrand/Freja/releases/download/v4.5.1/Freja_Setup_20261003_4.5.1.exe",
-  "notes": "Första testet av uppdateringsflödet."
+  "notes": "Första offentliga pc-releasen.",
+  "downloads": {
+    "windows": "https://github.com/OrpheusSabelrand/Freja/releases/download/v4.5.3/Freja-4.5.3-Windows-Setup.exe",
+    "macos": ""
+  }
 }
