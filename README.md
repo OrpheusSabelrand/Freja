@@ -12,7 +12,7 @@ MODIFIKATIONER
 Modifiera med timer, svårhetströsklar, luringar, blanka, underord, överord och förlängningar.
 
 ALTERNATIVA SPELLÄGEN
-Speedrun uthållighetsträning, Sporcleaktiga quiz och Ändelseminfält.
+Filmvisning, Uthållighetsträning, Sporcleaktiga quiz och Ändelseminfält.
 
 ORDFÖNSTRET
 Hantera och visa listor, definitioner och statistik.
