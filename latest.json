@@ -1,8 +1,8 @@
 {
-  "version": "4.6",
-  "download_url": "https://github.com/OrpheusSabelrand/Freja/releases/download/v4.6/Freja_4.6_Setup_Windows.exe",
+  "version": "4.6.1",
+  "download_url": "https://github.com/OrpheusSabelrand/Freja/releases/download/v4.6.1/Freja_4.6.1_Setup_Windows.exe",
   "downloads": {
-    "windows": "https://github.com/OrpheusSabelrand/Freja/releases/download/v4.6/Freja_4.6_Setup_Windows.exe",
+    "windows": "https://github.com/OrpheusSabelrand/Freja/releases/download/v4.6.1/Freja_4.6.1_Setup_Windows.exe",
     "macos": ""
   },
   "notes": "Diverse uppdateringar"
