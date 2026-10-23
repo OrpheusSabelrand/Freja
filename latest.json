@@ -1,9 +1,9 @@
 {
-  "version": "4.6.1",
-  "download_url": "https://github.com/OrpheusSabelrand/Freja/releases/download/v4.6.1/Freja_4.6.1_Setup_Windows.exe",
+  "version": "4.6.2",
+  "download_url": "https://github.com/OrpheusSabelrand/Freja/releases/download/v4.6.2/Freja_4.6.2_Setup_Windows.exe",
   "downloads": {
-    "windows": "https://github.com/OrpheusSabelrand/Freja/releases/download/v4.6.1/Freja_4.6.1_Setup_Windows.exe",
-    "macos": ""
+    "windows": "https://github.com/OrpheusSabelrand/Freja/releases/download/v4.6.2/Freja_4.6.2_Setup_Windows.exe",
+    "macos": "https://github.com/OrpheusSabelrand/Freja/releases/download/v4.6.2/Freja_4.6.2_Setup_MacOS.dmg"
   },
-  "notes": "Diverse uppdateringar"
+  "notes": "Uppdateringar och buggfixar. Nu även för Mac med Apple Silicon (M1 eller senare)."
 }
